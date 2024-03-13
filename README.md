@@ -50,7 +50,7 @@ Add the “**ToneFramework**” package into your **PROJECT package dependencies
 
 2. Add the below url into the package URL search box.
 
-“https://github.com/The-TONE-Knows-Inc/ToneFramework.git”
+https://github.com/The-TONE-Knows-Inc/ToneFramework.git
 
 
 3. Select the “**Up to Next Major Version**” - **1.0.0** from the **Dependency Rule** and select your project from **Add to Project** dropdown.
