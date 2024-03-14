@@ -23,10 +23,6 @@ import _SwiftConcurrencyShims
   public static func checkToneHourly()
   @objc deinit
 }
-@_hasMissingDesignatedInitializers public class GoertzelTabNew {
-  public typealias Handler = ([Swift.Double], [Swift.Double]) -> Swift.Void
-  @objc deinit
-}
 public struct ToneFrameworkData {
   public var lastDetectedTone: Swift.String
 }
