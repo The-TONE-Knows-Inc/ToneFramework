@@ -2150,7 +2150,7 @@
       "kind": "IntegerLiteral",
       "offset": 826,
       "length": 1,
-      "value": "4"
+      "value": "8"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
@@ -2182,171 +2182,178 @@
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 979,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1010,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1043,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1075,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 978,
+      "offset": 1105,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 1225,
+      "offset": 1352,
       "length": 48,
       "value": "\"Location is \""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 1272,
+      "offset": 1399,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1657,
+      "offset": 1784,
       "length": 5,
       "value": "10000"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1701,
+      "offset": 1828,
       "length": 5,
       "value": "22000"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1773,
+      "offset": 1900,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2045,
+      "offset": 2172,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 2154,
+      "offset": 2281,
       "length": 18,
       "value": "\"frequency_tables\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 2339,
+      "offset": 2466,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 2353,
+      "offset": 2480,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2528,
+      "offset": 2655,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 2635,
+      "offset": 2762,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2834,
+      "offset": 2961,
       "length": 4,
       "value": "-500"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2880,
+      "offset": 3007,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2925,
+      "offset": 3052,
       "length": 4,
       "value": "-500"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2970,
+      "offset": 3097,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 3009,
+      "offset": 3136,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 3060,
+      "offset": 3187,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 3101,
+      "offset": 3228,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 3153,
+      "offset": 3280,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 3193,
+      "offset": 3320,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3303,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3342,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "FloatLiteral",
-      "offset": 3363,
-      "length": 6,
-      "value": "0.0001"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
@@ -2358,413 +2365,749 @@
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 3497,
+      "offset": 3469,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "FloatLiteral",
+      "offset": 3490,
+      "length": 6,
+      "value": "0.0001"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3557,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4178,
+      "offset": 3624,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4217,
+      "offset": 4305,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4251,
+      "offset": 4344,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4378,
       "length": 5,
       "value": "18000"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 4259,
+      "offset": 4386,
       "length": 6,
       "value": "0.0001"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 4268,
+      "offset": 4395,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4333,
+      "offset": 4460,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4400,
+      "offset": 4527,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "StringLiteral",
+      "offset": 4812,
+      "length": 64,
+      "value": "\"Bridge TOne ::::::::::\""
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "StringLiteral",
+      "offset": 4847,
+      "length": 28,
+      "value": "\"============================\""
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4916,
+      "offset": 5156,
       "length": 4,
       "value": "-500"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "Array",
-      "offset": 5125,
+      "offset": 5365,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 5401,
+      "offset": 5641,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5524,
+      "offset": 5764,
       "length": 45,
       "value": "\"currentDualTone::::::::::\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 5568,
+      "offset": 5808,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 5755,
+      "offset": 5995,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "StringLiteral",
-      "offset": 5951,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 5986,
+      "offset": 6180,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6012,
+      "offset": 6206,
       "length": 4,
       "value": "-100"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 6065,
+      "offset": 6259,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6173,
+      "offset": 6349,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6389,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 6279,
+      "offset": 6495,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6321,
+      "offset": 6537,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6406,
+      "offset": 6622,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 6446,
+      "offset": 6662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 6489,
+      "offset": 6705,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 6525,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6703,
+      "offset": 6741,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 6745,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6831,
+      "offset": 6833,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 6872,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6914,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6950,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7127,
+      "offset": 6941,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 7169,
+      "offset": 6983,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7069,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7110,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7152,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7188,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7279,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7387,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7429,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 7254,
+      "offset": 7514,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 7294,
+      "offset": 7554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 7337,
+      "offset": 7597,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 7373,
+      "offset": 7633,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 7465,
+      "offset": 7725,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 7576,
+      "offset": 7836,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 7611,
+      "offset": 7871,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 7688,
+      "offset": 7979,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "StringLiteral",
+      "offset": 8068,
+      "length": 97,
+      "value": "\"===================== 4 - Tone Tag API Called =================================================\""
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 8018,
+      "offset": 8517,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 8486,
+      "offset": 8618,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8659,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8701,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8737,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8829,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8940,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8975,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9081,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9121,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9163,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9199,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9290,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9401,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9436,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9543,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "StringLiteral",
+      "offset": 9632,
+      "length": 97,
+      "value": "\"===================== 6 - Tone Tag API Called =================================================\""
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10106,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10205,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10245,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10289,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10325,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10435,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10546,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10581,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10689,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10731,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10774,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10810,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10919,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11030,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11065,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11173,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "StringLiteral",
+      "offset": 11262,
+      "length": 97,
+      "value": "\"===================== 8 - Tone Tag API Called =================================================\""
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11737,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12000,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "FloatLiteral",
+      "offset": 12065,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12490,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8702,
+      "offset": 12706,
       "length": 160,
       "value": "\"Tone already detected within the last 2 minutes: \""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8804,
+      "offset": 12808,
       "length": 2,
       "value": "\" at \""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 8861,
+      "offset": 12865,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 9359,
+      "offset": 13363,
       "length": 28,
       "value": "\"tone.example.br.ToneListen\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 9521,
+      "offset": 13525,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10003,
+      "offset": 14007,
       "length": 4,
       "value": "3600"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 10018,
+      "offset": 14022,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "FloatLiteral",
-      "offset": 10224,
+      "offset": 14228,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 10303,
+      "offset": 14307,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "StringLiteral",
-      "offset": 10478,
+      "offset": 14482,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10489,
+      "offset": 14493,
       "length": 1,
-      "value": "4"
+      "value": "8"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 10511,
+      "offset": 14515,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 10536,
+      "offset": 14540,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 10561,
+      "offset": 14565,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "BooleanLiteral",
-      "offset": 10587,
+      "offset": 14591,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14616,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14641,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14668,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14694,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anilkumar\/Documents\/NewRecover\/ToneListen-iOS-Framework\/ToneListen\/SwiftRecognizer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10612,
+      "offset": 14719,
       "length": 2,
       "value": "-1"
     },
