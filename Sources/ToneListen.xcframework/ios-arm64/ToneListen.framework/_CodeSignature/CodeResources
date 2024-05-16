@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3KFIT2ixXv6oFgvdW+mLQVIVnD4=
+		rm/UtjaalFSl0+DyPDNfv+18IMQ=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		klQChp3iamXZiR4cARdwRm3j8ZI=
+		+5gRGMOsdKLi0u388T4t4W84gWs=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		STi7NPp2J93adkI9dqaIEXO3meU=
+		dF3y3N0aORHZrB/JxrH3bmzbj+E=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		STi7NPp2J93adkI9dqaIEXO3meU=
+		dF3y3N0aORHZrB/JxrH3bmzbj+E=
 		</data>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		mFNL3OUA+VExONhDRe/TDKdr0oU=
+		R93kMbmX86s68Ugdua2MjyJXoiQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ghscmaupx/DQL7rQQss6CsC4/G2zA6qSJxkUSiTSWt0=
+			A4/AHUfV1BAf2/cTXuKG7TG1/Zm0WK2gmQUbJANCN+s=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jlF1S2XwMcxNhyg4iZo8CEsmuAFyPnOomRM9O9ABzVE=
+			s6Iad7Hx6w8q+SWWPnWQGXdoZgVKnR3Z4Vg9lrRKGH8=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -86,14 +86,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jlF1S2XwMcxNhyg4iZo8CEsmuAFyPnOomRM9O9ABzVE=
+			s6Iad7Hx6w8q+SWWPnWQGXdoZgVKnR3Z4Vg9lrRKGH8=
 			</data>
 		</dict>
 		<key>Modules/ToneListen.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jQbkp8052ApdPTDxlgR18Z6rfLuQhYg85K8uTApc/Qk=
+			BxrjMXWh9WYeOxxOsuq76Q7OeUAzF7umsBjaPD5D6AQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
