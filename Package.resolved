@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/AudioKit/AudioKit.git",
         "state": {
           "branch": null,
-          "revision": "491ae3d76c64c848e308fb1f659099e3c82cd65b",
-          "version": "5.3.0"
+          "revision": "2ebd422855e4645d3169f83d1765d1c8196b4f46",
+          "version": "5.6.4"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/AudioKit/AudioKitEX",
         "state": {
           "branch": null,
-          "revision": "214bedd90e9a4ff03f55c4dc3b918082b6a7ebeb",
-          "version": "5.3.0"
+          "revision": "cb1a1276978ffc08e00d4774c0617aa8a58a17c4",
+          "version": "5.6.1"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/AudioKit/DunneAudioKit.git",
         "state": {
           "branch": null,
-          "revision": "66796ccdfd0991b2216e82baafe93c72c905fd15",
-          "version": "5.3.0"
+          "revision": "dd0a417239ba345e03ca8ffe936d052d6a8239ea",
+          "version": "5.6.1"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/zoul/generic-json-swift",
         "state": {
           "branch": null,
-          "revision": "a137894b2a217abe489cdf1ea287e6f7819b1051",
-          "version": "2.0.1"
+          "revision": "0a06575f4038b504e78ac330913d920f1630f510",
+          "version": "2.0.2"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/AudioKit/SoundpipeAudioKit.git",
         "state": {
           "branch": null,
-          "revision": "a23a27c6ebe5fdf1911559cd82d899bfc6a7eda5",
-          "version": "5.3.0"
+          "revision": "ee7d9542078ae48b24744a67c0350a12f9de354b",
+          "version": "5.6.1"
         }
       },
       {
@@ -60,8 +60,8 @@
         "repositoryURL": "https://github.com/AudioKit/STKAudioKit.git",
         "state": {
           "branch": null,
-          "revision": "8a1685afad9b5e7e892f22a8411216a36e5bcb62",
-          "version": "5.3.0"
+          "revision": "e6af9e24eb599d4ff34d5776b0801cf0068142bc",
+          "version": "5.5.4"
         }
       },
       {
