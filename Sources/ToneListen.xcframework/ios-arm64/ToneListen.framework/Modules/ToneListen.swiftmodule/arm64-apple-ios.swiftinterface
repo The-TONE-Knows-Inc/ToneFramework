@@ -1,26 +1,77 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
-// swift-module-flags: -target arm64-apple-ios15.2 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ToneListen
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios15.2 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name ToneListen
+import AVFAudio
 import AVFoundation
 import AudioKit
+import CallKit
+import SystemConfiguration.CaptiveNetwork
 import Combine
 import CoreAudio
+import CoreBluetooth
+import CoreData
 import CoreLocation
+import CoreTelephony
 import Foundation
+import Network
+import SQLite3
+import Security
 import Swift
 import SwiftLocation
 import SwiftUI
+import SystemConfiguration
 @_exported import ToneListen
 import UIKit
 import UserNotifications
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public class NetworkHandler {
+  public var isConnected: Swift.Bool
+  public var onConnectionStatusChange: ((Swift.Bool) -> Swift.Void)?
+  public init()
+  public func stopMonitoring()
+  @objc deinit
+}
+final public class SecureStorageManager {
+  final public var lastStatus: Darwin.OSStatus {
+    get
+  }
+  public init(keyPrefix: Swift.String?)
+  convenience public init()
+  @discardableResult
+  final public func archive(_ object: Any?, key: Swift.String, accessibility: CoreFoundation.CFString = kSecAttrAccessibleWhenUnlocked) -> Swift.Bool
+  @discardableResult
+  final public func archive<T>(object: T?, key: Swift.String, encoder: Foundation.JSONEncoder = .init(), accessibility: CoreFoundation.CFString = kSecAttrAccessibleWhenUnlocked) throws -> Swift.Bool where T : Swift.Encodable
+  @discardableResult
+  final public func remove(key: Swift.String) -> Swift.Bool
+  final public func unarchive(objectForKey key: Swift.String) -> Any?
+  final public func unarchive<T>(_ type: T.Type = T.self, for key: Swift.String, decoder: Foundation.JSONDecoder = .init()) throws -> T? where T : Swift.Decodable
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class WifiDetection {
+  public static let shared: ToneListen.WifiDetection
+  public func getCurrentWiFiDetails(completion: @escaping ([Swift.String : Swift.String]?) -> Swift.Void)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class BluetoothScanner : ObjectiveC.NSObject, CoreBluetooth.CBCentralManagerDelegate {
+  public static let shared: ToneListen.BluetoothScanner
+  @objc public func centralManagerDidUpdateState(_ central: CoreBluetooth.CBCentralManager)
+  @objc public func centralManager(_ central: CoreBluetooth.CBCentralManager, didDiscover peripheral: CoreBluetooth.CBPeripheral, advertisementData: [Swift.String : Any], rssi RSSI: Foundation.NSNumber)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class CarrierDetector {
+  public static let shared: ToneListen.CarrierDetector
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class RemoteService {
-  public static func handleContent(actionType: Swift.String, actionUrl: Swift.String)
+  public static func handleContent(actionType: Swift.String, actionUrl: Swift.String, actionData: Swift.String? = nil, tone: Swift.String? = nil)
   public static func checkTone(detectedTone: Swift.String)
   public static func checkToneHourly()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class GoertzelTabNew {
+  public typealias Handler = ([Swift.Double], [Swift.Double]) -> Swift.Void
   @objc deinit
 }
 public struct ToneFrameworkData {
@@ -57,10 +108,20 @@ public protocol Observer : AnyObject {
   public var contentResponse: [Swift.String : Any]
   public static let clientNotificationName: Foundation.Notification.Name
   public static let notificationName: Foundation.Notification.Name
+  public static let notificationImageData: Foundation.Notification.Name
   public static let responseObjectNotificationName: Foundation.Notification.Name
   public func requestPermission()
   @objc public func userNotificationCenter(_ center: UserNotifications.UNUserNotificationCenter, willPresent notification: UserNotifications.UNNotification, withCompletionHandler completionHandler: @escaping (UserNotifications.UNNotificationPresentationOptions) -> Swift.Void)
   @objc public func userNotificationCenter(_ center: UserNotifications.UNUserNotificationCenter, didReceive response: UserNotifications.UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Swift.Void)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class InsertOfflineData {
+  public static let shared: ToneListen.InsertOfflineData
+  public func insertOfflineData(completion: @escaping (Swift.Bool) -> Swift.Void)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class FetchOfflineData {
+  public static let shared: ToneListen.FetchOfflineData
   @objc deinit
 }
 public class GoertzelTap : AudioKit.BaseTap {
@@ -84,6 +145,10 @@ public class ToneFrameworkManager {
   public func LogTone(message: Swift.String)
   public func startRecognizer()
   public func stopRecognizer()
+  public func insertOfflineDetectedData()
+  public func getWifiDataDetection(isEnable: Swift.Bool?)
+  public func getCarrierDetector(isEnable: Swift.Bool?)
+  public func getBluetoothDataDetection(isEnable: Swift.Bool?)
   @objc deinit
 }
 public class ToneFramework {
@@ -92,5 +157,48 @@ public class ToneFramework {
   public func start()
   public func stop()
   public func setClientId(clientID: Swift.String)
+  public func enableToneOfflineMode(isEnable: Swift.Bool, clientID: Swift.String)
+  public func checkInternetConnection()
+  public func getWifiDataDetection(isEnable: Swift.Bool?)
+  public func getBluetoothDataDetection(isEnable: Swift.Bool?)
+  public func getCarrierDataDetection(isEnable: Swift.Bool?)
   @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(ToneData) public class ToneData : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+extension ToneListen.ToneData {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ToneListen.ToneData>
+  @objc @NSManaged dynamic public var actionData: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var actionType: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var actionUrl: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var clientDesc: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var clientName: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var id: Swift.Int32 {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var toneSequence: Swift.String? {
+    @objc get
+    @objc set
+  }
+}
+extension ToneListen.ToneData : Swift.Identifiable {
+  public typealias ID = Swift.Int32
 }
